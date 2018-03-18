@@ -3,7 +3,9 @@ $(document).ready(function () {
 		uptimerobot: {
 			api_keys: [
 				'm779159378-35b70646f5a0a7721f95851f',
+				//deluge:
 				'm778837228-8e194e552a2eec7b2af06e89',
+				//Mattermost
 				'm779252585-87d3caa9bb1e6655e9cc1510',
 				// (OMBI) Plex Request (RP):
 				//'m779245556-29ff176349b541aef928049b',
@@ -34,7 +36,9 @@ $(document).ready(function () {
 				//Sonarr
 				'm779091229-7a109974b955eb6701c8f270',
 				//IIS
-				'm778837213-d25b1c1a992e84dffd6fb69d'
+				'm778837213-d25b1c1a992e84dffd6fb69d',
+				//NZBHydra
+				'm779126192-8c6e6d05016503d31ddaf882'
 				
 			],
 			logs: 1,
