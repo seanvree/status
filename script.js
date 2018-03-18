@@ -9,7 +9,9 @@ $(document).ready(function () {
 				'm779245556-29ff176349b541aef928049b',
 				'm780134533-e1f9a613c8ee104e6212c027',
 				//deluge WebUI:
-				'm779248420-bb3154d5353aab9eea77327f'
+				'm779248420-bb3154d5353aab9eea77327f',
+				//FTP:
+				'm779126193-13d3b5b9a3840099036fdbb9'
 			],
 			logs: 1,
 			response_times: 1,
