@@ -9,6 +9,8 @@ $(document).ready(function () {
 				//'m779245556-29ff176349b541aef928049b',
 				// Plex Request (Port):
 				'm780134533-e1f9a613c8ee104e6212c027',
+				//deluge Xfer:
+				' m779126209-fc580d6c27c2347fba48f7d3',
 				//deluge WebUI:
 				'm779248420-bb3154d5353aab9eea77327f',
 				//FTP:
