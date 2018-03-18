@@ -24,7 +24,13 @@ $(document).ready(function () {
 				//Lidarr
 				'm779712881-a3cea81d1ee5d2d4c3225fae',
 				//PLEX
-				'm778837227-00fb68931af60e3a29fee644'
+				'm778837227-00fb68931af60e3a29fee644',
+				//PLEXpy
+				'm779312821-96ca79226081030cf9c008f2',
+				//radarr
+				'm779086278-b58555537e5530c149a15aeb',
+				//sabnzbd
+				'm779244212-91ede78d44188d4a87c42444'
 			],
 			logs: 1,
 			response_times: 1,
