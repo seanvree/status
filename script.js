@@ -30,7 +30,12 @@ $(document).ready(function () {
 				//radarr
 				'm779086278-b58555537e5530c149a15aeb',
 				//sabnzbd
-				'm779244212-91ede78d44188d4a87c42444'
+				'm779244212-91ede78d44188d4a87c42444',
+				//Sonarr
+				'm779091229-7a109974b955eb6701c8f270',
+				//IIS
+				'm778837213-d25b1c1a992e84dffd6fb69d'
+				
 			],
 			logs: 1,
 			response_times: 1,
