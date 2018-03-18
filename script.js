@@ -16,7 +16,9 @@ $(document).ready(function () {
 				//FTP:
 				'm779126193-13d3b5b9a3840099036fdbb9',
 				//Headhpones:
-				'm779126189-61a8c36d7fca73658485127b'
+				'm779126189-61a8c36d7fca73658485127b,
+				//Jackett:
+				'm779126194-a44ef2b1d6a8ff64ae900b68'
 			],
 			logs: 1,
 			response_times: 1,
