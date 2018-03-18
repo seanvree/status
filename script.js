@@ -10,11 +10,13 @@ $(document).ready(function () {
 				// Plex Request (Port):
 				'm780134533-e1f9a613c8ee104e6212c027',
 				//deluge Xfer:
-				' m779126209-fc580d6c27c2347fba48f7d3',
+				'm779126209-fc580d6c27c2347fba48f7d3',
 				//deluge WebUI:
 				'm779248420-bb3154d5353aab9eea77327f',
 				//FTP:
-				'm779126193-13d3b5b9a3840099036fdbb9'
+				'm779126193-13d3b5b9a3840099036fdbb9',
+				//Headhpones:
+				'm779126189-61a8c36d7fca73658485127b'
 			],
 			logs: 1,
 			response_times: 1,
