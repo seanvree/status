@@ -38,8 +38,9 @@ $(document).ready(function () {
 				//IIS
 				'm778837213-d25b1c1a992e84dffd6fb69d',
 				//NZBHydra
-				'm779126192-8c6e6d05016503d31ddaf882'
-				
+				'm779126192-8c6e6d05016503d31ddaf882',
+				//Goodsync
+				'm780134727-17e3f74321005b0d56550896'
 			],
 			logs: 1,
 			response_times: 1,
