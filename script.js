@@ -20,7 +20,11 @@ $(document).ready(function () {
 				//Jackett:
 				'm779126194-a44ef2b1d6a8ff64ae900b68',
 				//LazyLibrarian
-				'm779368951-ecd6233582d5d84384aca4d6'
+				'm779368951-ecd6233582d5d84384aca4d6',
+				//Lidarr
+				'm779712881-a3cea81d1ee5d2d4c3225fae',
+				//PLEX
+				'm778837227-00fb68931af60e3a29fee644'
 			],
 			logs: 1,
 			response_times: 1,
