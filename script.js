@@ -7,8 +7,8 @@ $(document).ready(function () {
 				'm778837228-8e194e552a2eec7b2af06e89',
 				//Mattermost
 				'm779252585-87d3caa9bb1e6655e9cc1510',
-				// (OMBI) Plex Request (RP):
-				//'m779245556-29ff176349b541aef928049b',
+				// (OMBI) Plex Request (HTTP):
+				'm779245556-29ff176349b541aef928049b',
 				// Plex Request (Port):
 				'm780134533-e1f9a613c8ee104e6212c027',
 				//deluge Xfer:
