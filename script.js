@@ -3,6 +3,8 @@ $(document).ready(function () {
 		uptimerobot: {
 			api_keys: [
 				'm779159378-35b70646f5a0a7721f95851f',
+				//WAN (DD-WRT):
+				'm780553106-5660d549025a238235f8ef57',
 				//deluge:
 				'm778837228-8e194e552a2eec7b2af06e89',
 				//Mattermost
